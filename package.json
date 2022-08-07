@@ -4,6 +4,7 @@
 	"description": "Back End Development & APIs Course. Managing Packages with NPM.",
 	"keywords": ["api", "backend", "freeCodeCamp"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
