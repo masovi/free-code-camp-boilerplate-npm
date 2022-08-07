@@ -3,6 +3,7 @@
 	"author": "masovi",
 	"description": "Back End Development & APIs Course. Managing Packages with NPM.",
 	"keywords": ["api", "backend", "freeCodeCamp"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
