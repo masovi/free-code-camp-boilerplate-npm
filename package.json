@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "masovi",
 	"description": "Back End Development & APIs Course. Managing Packages with NPM.",
+	"keywords": ["api", "backend", "freeCodeCamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
